@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Emil H. Espiritu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emil H. Espiritu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emil-h-espiritu-245732248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emil-h-espiritu-245732248" height="30" width="40" /></a>
 <a href="https://instagram.com/spiritwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spiritwo" height="30" width="40" /></a>
 </p>
 
