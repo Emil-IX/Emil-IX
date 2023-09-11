@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Emil H. Espiritu</h1>
 <h3 align="center">Right now I am studying software engineering, my projection is to focus on the frontend side since I have always had natural skills in design, however I do not limit myself since I am also learning backend skills. It's a pleasure to meet you, I hope you like the projects I'm working on.</h3>
 
-- I’m currently learning **Node.js React**
+- I’m currently learning **Node.js, React, est, Cypress, Azure DevOps Server**
 
 - 📫 How to reach me **emilspiritu@gmail.com**
 
-- ⚡ Fun fact **I think is veri funny to programin in my own proyects**
+- ⚡ Fun fact **I think it is fun to work on your own projects and even more so if you have friends who are willing to collaborate with you.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
