@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <h1 align="center">Hi 👋, I'm Emil H. Espiritu</h1>
 <h3 align="left">Right now I am studying software engineering, my projection is to focus on the frontend side since I have always had natural skills in design, however I do not limit myself since I am also learning backend skills. It's a pleasure to meet you, I hope you like the projects I'm working on.</h3>
