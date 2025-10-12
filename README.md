@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<h1 align="center">Hi 👋, I'm Emil H. Espiritu</h1>
+<h1 align="center">I'm Emil H. Espiritu</h1>
 <h3 align="left">I am Software engineering, My passion is technology in general; I admire how it advances at extraordinary speeds and improves our lives every day.I am specializing in create full stack proyect with automation and quality strategies, and passionate about building high-quality software. It's a pleasure to meet you, I hope you like the projects I'm working on.</h3>
 
 - 📫 How to reach me **emilspiritu@gmail.com**
