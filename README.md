@@ -7,19 +7,7 @@
 ---
 
 ### Connect with Me
-
-<p align="left">
-<a href="mailto:emilspiritu@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="emilspiritu@gmail.com" height="40"/>
-</a>
-<a href="https://linkedin.com/in/emil-h-espiritu-245732248" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emil-h-espiritu-245732248" height="40" width="45" />
-</a>
-<a href="https://instagram.com/spiritwo" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spiritwo" height="40" width="45" />
-</a>
-</p>
-
+- 📧 Email: **emilspiritu@gmail.com**
 ---
 
 ### Technical Skills
