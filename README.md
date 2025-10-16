@@ -2,7 +2,6 @@
 
 <h1 align="center">Emil H. Espiritu</h1>
 
----
 
 <p align="left">I'm a <span style="font-weight:bold;">Software Engineer</span> specializing in building high-quality projects, with a strong focus on <span style="font-weight:bold;">Automation</span> and <span style="font-weight:bold;">Quality Assurance (QA)</span> strategies. My passion lies in leveraging technology to develop robust and efficient solutions.</p>
 
@@ -54,9 +53,9 @@
 
 <h4 align="left">Testing, APIs, and Project Management:</h4>
 <p align="left">
-<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_playwright/microsoft_playwright-icon.svg" alt="Playwright" width="40" height="40"/> </a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-plain-wordmark.svg" alt="Cypress" width="40" height="40"/> </a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjs/jestjs-icon.svg" alt="Jest" width="40" height="40"/> </a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Playwright-4B4654?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" height="40" /> </a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" height="40" /> </a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" height="40" /> </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original-wordmark.svg" alt="Swagger" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
