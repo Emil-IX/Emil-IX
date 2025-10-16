@@ -2,16 +2,24 @@
 
 <h1 align="center">Emil H. Espiritu</h1>
 
-<h3 align="left">I'm a <span style="font-weight:bold;">Software Engineer</span> specializing in building high-quality projects, with a strong focus on <span style="font-weight:bold;">Automation</span> and <span style="font-weight:bold;">Quality Assurance (QA)</span> strategies. My passion lies in leveraging technology to develop robust and efficient solutions.</h3>
+---
+
+<p align="left">I'm a <span style="font-weight:bold;">Software Engineer</span> specializing in building high-quality projects, with a strong focus on <span style="font-weight:bold;">Automation</span> and <span style="font-weight:bold;">Quality Assurance (QA)</span> strategies. My passion lies in leveraging technology to develop robust and efficient solutions.</p>
 
 ---
 
 ### Connect with Me
-- 📧 Email: **emilspiritu@gmail.com**
 
 <p align="left">
-<a href="https://linkedin.com/in/emil-h-espiritu-245732248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emil-h-espiritu-245732248" height="30" width="40" /></a>
-<a href="https://instagram.com/spiritwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spiritwo" width="40" height="40" /></a>
+<a href="mailto:emilspiritu@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="emilspiritu@gmail.com" height="40"/>
+</a>
+<a href="https://linkedin.com/in/emil-h-espiritu-245732248" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emil-h-espiritu-245732248" height="40" width="45" />
+</a>
+<a href="https://instagram.com/spiritwo" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spiritwo" height="40" width="45" />
+</a>
 </p>
 
 ---
@@ -27,10 +35,9 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
-<h4 align="left">Databases and Tools:</h4>
+<h4 align="left">Databases and ORMs:</h4>
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
@@ -38,18 +45,26 @@
 <img src="https://img.shields.io/badge/Toad_for_Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white" alt="Toad for Oracle" height="40" />
 </p>
 
-<h4 align="left">DevOps and Project Management:</h4>
+<h4 align="left">DevOps and Deployment:</h4>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> </a>
+<img src="https://img.shields.io/badge/IIS-000000?style=for-the-badge&logo=iis&logoColor=white" alt="IIS" height="40" />
+</p>
+
+<h4 align="left">Testing, APIs, and Project Management:</h4>
+<p align="left">
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_playwright/microsoft_playwright-icon.svg" alt="Playwright" width="40" height="40"/> </a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-plain-wordmark.svg" alt="Cypress" width="40" height="40"/> </a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjs/jestjs-icon.svg" alt="Jest" width="40" height="40"/> </a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original-wordmark.svg" alt="Swagger" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 <img src="https://img.shields.io/badge/Oracle_APEX-000000?style=for-the-badge&logo=oracle&logoColor=red" alt="Oracle APEX" height="40" />
 </p>
 
-<h4 align="left">Other Tools:</h4>
+<h4 align="left">Design and Auxiliary Tools:</h4>
 <p align="left">
-<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" height="40" />
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
