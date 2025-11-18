@@ -6,11 +6,11 @@
 
 ---
 
-### Connect with Me
+## Connect with Me
 - 📧 Email: **emilspiritu@gmail.com**
 ---
 
-### Technical Skills
+## Technical Skills
 
 <h4 align="left">Languages and Frameworks:</h4>
 <p align="left"> 
