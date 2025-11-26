@@ -4,7 +4,6 @@
 
 <p align="left">I'm a <span style="font-weight:bold;">Software Engineer</span> specializing in building high-quality projects, with a strong focus on <span style="font-weight:bold;">Automation</span> and <span style="font-weight:bold;">Quality Assurance (QA)</span> strategies. My passion lies in leveraging technology to develop robust and efficient solutions.</p>
 
----
 
 ## Connect with Me
 - 📧 Email: **emilspiritu@gmail.com**
